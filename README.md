@@ -1,5 +1,3 @@
-# StudentGuideAI-Week2
-AGENTIC AI PROJECT'S WEEK 2ND WORK 
 # 📚 Student Guide AI - Week 2
 
 ## Project Overview
@@ -33,8 +31,7 @@ Student Guide AI is a Retrieval-Augmented Generation (RAG) application that answ
 - PyPDF
 
 ## How to Run
-pip install -r requirements.txt
 
-streamlit run app.py
+pip install -r requirements.txt
 
 streamlit run app.py
