@@ -1,0 +1,2 @@
+# StudentGuideAI-Week2
+AGENTIC AI PROJECT'S WEEK 2ND WORK 
